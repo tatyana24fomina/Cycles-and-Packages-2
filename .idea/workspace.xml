@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb96799d-7ed5-4f79-8ce0-719b62f8bd51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/netology/stats/StatsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/netology/stats/StatsService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/stats/StatsServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/netology/stats/StatsServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,27 +168,31 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/tatyana24fomina/Cycles-and-Packages-2&#10;&#10; Conflicts:&#10;&#9;target/classes/ru/netology/stats/StatsService.class&#10;&#9;target/test-classes/ru/netology/stats/StatsServiceTest.class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/tatyana24fomina/Cycles-and-Packages-2&#10;&#10; Conflicts:&#10;&#9;target/classes/ru/netology/stats/StatsService.class&#10;&#9;target/test-classes/ru/netology/stats/StatsServiceTest.class" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1633127811578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1633127811578" />
-    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1633175837593">
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1633179276803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1633175837593" />
-    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1633175837593">
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1633179276803" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1633179276803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1633175837593" />
-    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1633175837593">
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1633179276803" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1633179276803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1633175837593" />
-    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1633175837593">
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1633179276803" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1633179276803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1633175837593" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1633179276803" />
     <state width="1306" height="210" key="GridCell.Tab.1.bottom" timestamp="1633127813930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -207,6 +209,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1306" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1633127813929" />
+    <state x="571" y="229" key="MultipleFileMergeDialog" timestamp="1633176502660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="571" y="229" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1633176502660" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1633179714216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1633179714216" />
     <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1633119876493">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -215,5 +225,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1633088843397" />
+    <state x="345" y="151" key="git4idea.merge.GitPullDialog" timestamp="1633176475645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="151" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1633176475645" />
   </component>
 </project>
