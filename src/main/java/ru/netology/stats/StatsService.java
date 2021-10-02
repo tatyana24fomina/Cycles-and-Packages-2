@@ -47,7 +47,7 @@ public class StatsService {
     //5.Кол-во месяцев, в которых продажи были ниже среднего
     public int monthsMinSales(int[] sales) {
         int months = 0;
-        int a = calculateSum(sales) / sales.length;
+        int a = findAvrSum(sales);
         for (int sale : sales) {
             if (sale < a) {
                 months++;
@@ -59,7 +59,7 @@ public class StatsService {
     //6.Кол-во месяцев, в которых продажи были выше среднего
     public int monthsMaxSales(int[] sales) {
         int months = 0;
-        int a = calculateSum(sales) / sales.length;
+        int a = findAvrSum(sales); //среднее находили во втором методе
         for (int sale : sales) {
             if (sale > a) {
                 months++;
